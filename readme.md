@@ -1,6 +1,6 @@
 # mds-csv
 
-Highlight.js support for [markdown-styles](https://github.com/mixu/markdown-styles).
+csv highlighting support for [markdown-styles](https://github.com/mixu/markdown-styles).
 
 Usage:
 
