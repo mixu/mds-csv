@@ -1,0 +1,16 @@
+{
+  "name": "mds-csv",
+  "version": "0.0.0",
+  "description": "csv highlighting support for markdown-styles / generate-md",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mixu/mds-csv.git"
+  },
+  "keywords": [
+    "generate-md",
+    "markdown-styles"
+  ],
+  "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
+  "license": "BSD"
+}
